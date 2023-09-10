@@ -7,12 +7,12 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/princekrvert/Asura?color=%2300bbff&style=for-the-badge)
 ---
 
-![20210115_105855](https://user-images.githubusercontent.com/56459297/104703543-7572a000-573d-11eb-8d9c-771a4bc61696.png)
+![20210115_105855](https://user-images.githubusercontent.com/56459297/104703543-7572a000-573d-11eb-8d9c-771a4bc61696.png) 
 ---
 ## Termux installation
 ```
 
-1. git clone https://github.com/princekrvert/Asura.git
+1. git clone https://github.com/MrHacker5575/CoDeX_TOOls
 2. cd Asura
 3. chmod +x *
 4. ./install.sh 
