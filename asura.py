@@ -47,7 +47,7 @@ def banner():
         @@@@@@@@@@ {y}@@@{g} @@@@@@@@@@  
           @@@@@@@  {y}@@@{g}  @@@@@@@    
              @@@@  {y}@@@{g}  @@@@       
-              {r}made by Prince kumar V1.02""")
+              {r}made by CODEXX V1.02""")
 banner()
 
 
