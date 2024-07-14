@@ -17,7 +17,3 @@ or ./asura.py
 
 
 ```
----
-## Termux look---
-
-![20210115_155339](https://user-images.githubusercontent.com/56459297/104713500-f899f300-5749-11eb-93cc-7e8c0820f78d.jpg)
