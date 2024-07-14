@@ -1,4 +1,4 @@
-# Asura
+# CODEX
 
 ![Made in India](https://img.shields.io/badge/MADE%20IN%20-INDIA-blue?style=for-the-badge&logo=appveyor)
 ![Python](https://img.shields.io/badge/PYTHON%20-TOOL-blue?style=for-the-badge&logo=appveyor)
