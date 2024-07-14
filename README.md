@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/PYTHON%20-TOOL-blue?style=for-the-badge&logo=appveyor)
 ![Mr-RAAZ](https://img.shields.io/badge/Mr-RAAZ-lightgreen?style=for-the-badge&logo=appveyor)
 
-![20210115_105855](https://user-images.githubusercontent.com/56459297/104703543-7572a000-573d-11eb-8d9c-771a4bc61696.png) 
+![20210115_105855](https://telegra.ph/file/bad60fd895f75b8e52a83.jpg) 
 ---
 ## Termux installation
 ```
