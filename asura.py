@@ -199,7 +199,7 @@ elif optn == '16':                                          host_optn("pinetrest
 elif optn == '17':                                          host_optn("linkedin")
 elif optn == '18':                                          host_optn("snapchat")
 elif optn == '19':                                          host_optn("microsoft")
-elif optn == '20':                                          print(f"{y} I am CODEX and i am a assistant of RAAZ \n{r} Instagram https://instagram.com/mr_raaj_474") 
+elif optn == '20':                                          print(f"{y} I am CODEX and i am assistant of RAAZ \n{r} Instagram https://instagram.com/mr_raaj_474") 
 else:
     print("\n")
     print(f"{r}[{y}!{r}] {g} Invalid option ")
