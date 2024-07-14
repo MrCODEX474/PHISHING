@@ -1,4 +1,5 @@
-# CODEX
+
+a# CODEX
 
 ![Made in India](https://img.shields.io/badge/MADE%20IN%20-INDIA-blue?style=for-the-badge&logo=appveyor)
 ![Python](https://img.shields.io/badge/PYTHON%20-TOOL-blue?style=for-the-badge&logo=appveyor)
@@ -9,11 +10,12 @@
 ## Termux installation
 ```
 
-1. git clone https://github.com/MrCODEX474/PHISHING.git
-2. cd Asura
-3. chmod +x *
-4. ./install.sh 
-or ./asura.py
+1.apt update & upgrade
+2. git clone https://github.com/MrCODEX474/PHISHING.git
+3. cd Asura
+4. chmod +x *
+5. ./install.sh 
+6. ./asura.py
 
 
 ```
