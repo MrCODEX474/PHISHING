@@ -9,7 +9,7 @@
 ## Termux installation
 ```
 
-1. git clone https://github.com/MrHacker5575/CoDeX_TOOls
+1. git clone https://github.com/MrCODEX474/PHISHING
 2. cd Asura
 3. chmod +x *
 4. ./install.sh 
